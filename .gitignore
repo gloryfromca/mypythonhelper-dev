@@ -1,0 +1,5 @@
+.idea
+build
+dist
+mypythonhelper.egg-info
+__pycache__
